@@ -51,7 +51,7 @@
     "@chromatic-com/storybook": "^4.0.1",
     "@eslint/js": "^9.32.0",
     "@playwright/test": "^1.54.1",
-    "@storybook/addon-a11y": "^9.0.18",
+    "@storybook/addon-a11y": "^9.1.1",
     "@storybook/addon-docs": "^9.0.18",
     "@storybook/addon-themes": "^9.0.18",
     "@storybook/react-vite": "^9.0.18",
